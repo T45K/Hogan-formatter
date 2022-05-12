@@ -17,6 +17,9 @@
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
+        <action id="io.github.t45k.hogan_formatter.FormatAction"
+                class="io.github.t45k.hogan_formatter.FormatAction">
+            <keyboard-shortcut first-keystroke="alt SEMICOLON" keymap="$default"/>
+        </action>
     </actions>
 </idea-plugin>
