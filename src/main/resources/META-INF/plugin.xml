@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>io.github.t45k.hogan-formatter</id>
-    <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <name>Hogan Formatter</name>
+    <vendor email="tasktas9@gmail.com" url="https://t45k.github.io">T45K</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    This is formatter for Hogan.<br>
+    This formats your code like neat table.
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
